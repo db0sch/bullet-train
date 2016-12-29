@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#1 | Introducing yourself - part 2/3"
+title:  "#1 | Introducing yourself - part 2/4"
 date:   2016-12-29 19:30:00 +0900
 categories: japanese intro
 ---
@@ -50,22 +50,22 @@ Suzuki:
 Jon:
 > Amerika desu.
 
-### Memo
-#### Other vocabulary:
-* `` => _ _
-* `` => _ _
-* `` => _ _
-* `` => _ _
-* `` => _ _
-* `` => _ _
-* `` => _ _
-
-
-### Example
-
-Satō:
-> .
-
+Suzuki:
+> O-sumai wa?.
 
 Jon:
-> .
+> Chiba desu. Suzuki-san wa?
+
+Suzuki:
+> Watashi mo Chiba desu. / Watashi wa Tokyo desu.
+
+Jon:
+> O-shigoto wa?
+
+Suzuki:
+> Shufu desu.
+
+
+### Memo
+#### Other vocabulary:
+* `Watashi mo ... desu` => _I'm also_
