@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#1 | Introducing yourself - part 1/3"
+title:  "#1 | Introducing yourself - part 1/4"
 date:   2016-12-27 12:42:00 +0900
 categories: japanese intro
 ---
@@ -84,5 +84,3 @@ _No, I'm not a engineer. I'm a student._
 
 
 To answer affirmatively, say `Hai, gakusei desu.`
-
-
