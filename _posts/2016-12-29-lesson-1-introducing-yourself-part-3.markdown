@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#1 | Introducing yourself - part 3/4"
+title:  "how to talk about what you like | ramen ga suki desu."
 date:   2016-12-29 23:40:00 +0900
 categories: japanese intro
 ---

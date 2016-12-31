@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#1 | Introducing yourself - part 2/4"
+title:  "how to talk about you | o-shigoto wa?"
 date:   2016-12-29 19:30:00 +0900
 categories: japanese intro
 ---

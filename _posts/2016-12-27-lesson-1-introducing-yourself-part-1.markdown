@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#1 | Introducing yourself - part 1/4"
+title:  "how to introduce yourself | watashi wa john desu"
 date:   2016-12-27 12:42:00 +0900
 categories: japanese intro
 ---
