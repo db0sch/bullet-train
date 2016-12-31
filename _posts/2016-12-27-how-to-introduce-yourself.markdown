@@ -42,23 +42,28 @@ All these words can fit into the sentence:
 > Watashi **wa** [kaishain] **desu**
 
 ### Example
+
 Jon:
+
 > Hajimemashite. Watashi wa [Jon] desu.
 
 > [Gakusei] desu. [Igirisu-jin] desu.
 
 > Dōzo yoroshiku.
 
+=> Jon: _How do you do? I'm John. I'm a student. I'm english. It's nice to meet you._
+
 Paul:
+
 > Paul desu. [Furansu] kara kimashita.
 
 > Kochira koso, dōzo yoroshiku.
 
-=> Jon: _How do you do? I'm John. I'm a student. I'm english. It's nice to meet you._
 
 => Paul: _I'm Paul. I'm from France. The pleasure is mine._
 
 ### Memo
+
 #### Other vocabulary:
 * `Hajimemashite` => _How do you do?_
 * `Dōzo yoroshiku` => _It's nice to meet you._
@@ -73,11 +78,13 @@ Paul:
 ### Example
 
 Satō:
+
 > Jon-san wa [enjinia] desu ka.
 
 _Are you an engineer, John-san?_
 
 Jon:
+
 > Iie, [enjinia] ja arimasen. [Gakusei] desu.
 
 _No, I'm not a engineer. I'm a student._

@@ -15,18 +15,23 @@ categories: japanese intro
 * Rising intonation at the end `___ wa?` [⬆️]
 
 ### Example
+
 Tanaka:
+
 >O-shigoto **wa (nan desu ka?)**?.
 
 Jon:
+
 >Enjinia desu.
 
 Tanaka:
+
 >O-sumai **wa (doko desu ka?)**?.
 
-("O-sumai" => home / place of residence)
+_("O-sumai" => home / place of residence)_
 
 Jon:
+
 >Chiba desu.
 
 
@@ -40,32 +45,42 @@ Jon:
 
 (adding `O` or `Go` at the beginning makes the noun polite. Use for other's, never for you)
 
-All these words can fit into the sentence:
+All these words can fit into the sentence `_____wa?`:
+
 > (O)namae **wa**?
 
 ### Example
+
 Suzuki:
+
 > Jon-san, o-kuni wa?.
 
 Jon:
+
 > Amerika desu.
 
 Suzuki:
+
 > O-sumai wa?.
 
 Jon:
+
 > Chiba desu. Suzuki-san wa?
 
 Suzuki:
+
 > Watashi mo Chiba desu. / Watashi wa Tokyo desu.
 
 Jon:
+
 > O-shigoto wa?
 
 Suzuki:
+
 > Shufu desu.
 
 
 ### Memo
+
 #### Other vocabulary:
 * `Watashi mo ... desu` => _I'm also_
