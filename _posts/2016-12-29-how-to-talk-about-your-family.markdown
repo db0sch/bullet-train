@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#1 | Introducing yourself - part 4/4"
+title:  "how to talk about your family | watashi no tsuma wa enjinia desu."
 date:   2016-12-30 00:08:00 +0900
 categories: japanese intro
 ---
