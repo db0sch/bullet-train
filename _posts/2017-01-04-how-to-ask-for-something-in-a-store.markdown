@@ -5,13 +5,16 @@ date:   2017-01-04 19:52:29 +0900
 categories:
 ---
 
-> Kasa, arimasu ka.
+> Kasa, **arimasu ka**.
 
-=> _Do you have umbrellas?_
+=> _**Do you have** umbrellas?_
 
 ### Note
+
 * `____ (wa) arimasu ka.` => we already saw this sentence to ask if something exist.
 * `____ (wa) arimasu ka.` => can also mean `do you have ____ ?`.
+
+### Example
 
 Jon:
 
@@ -34,6 +37,8 @@ Ten'nin:
 * `shio` => _salt_
 * `shio` => _salt_
 * `kusuri` => _medecine / drug ('kusuriya' => drugstore)_
+
+These words can be used with the following sentence: `____, arimasu ka.`
 
 ### Example conversation #1
 
