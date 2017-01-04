@@ -3,8 +3,12 @@
 ---
 @charset "utf-8";
 
+// import google font source sans pro
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700,700i');
+
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -14,7 +18,14 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #222831;
+
+// my custum color
+$blue: #00ADB5;
+$white: #EEEEEE;
+$green: #393E46;
+$dark: #222831;
+
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -37,3 +48,59 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+// My custom scss
+
+a.site-title {
+  text-decoration: none;
+  #title-text {
+    color: $blue;
+    font-weight: 600;
+    // font-style: italic;
+  }
+  #bullet-train-emoji {
+    width: 40px;
+    margin-right: 5px;
+  }
+}
+
+.site-header {
+  border-top: 5px solid $blue;
+}
+
+.post-excerpt {
+  color: $grey-color;
+  font-style: italic;
+}
+
+h2 {
+  margin-bottom: 0px;
+  font-weight: 600;
+  a.post-link {
+    transition: 0.2s;
+    &:hover {
+      opacity: 1;
+      color: $green;
+      text-decoration: none;
+    }
+    &:visited {
+      opacity: 0.7;
+      text-decoration: none;
+    }
+  }
+}
+
+h1.post-title {
+  font-weight: 600;
+}
+
+ul.post-list > li {
+  margin-bottom: 20px;
+}
+
+blockquote {
+  color: $blue;
+  font-style: normal;
+  font-size: 1.5em;
+  letter-spacing: 0.01em;
+}

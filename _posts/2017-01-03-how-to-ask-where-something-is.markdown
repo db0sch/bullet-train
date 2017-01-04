@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how to ask where something is | Toire, doko desu ka."
+title:  "how to ask where something is"
 date:   2017-01-03 10:53:00 +0900
 categories: japanese
 ---

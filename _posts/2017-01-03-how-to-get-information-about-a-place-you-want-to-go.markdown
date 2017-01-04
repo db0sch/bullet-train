@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how to get information about a place you want to go | Yūbinkyoku ni ikitai n desu ga..."
+title:  "how to get information about a place you want to go"
 date:   2017-01-03 11:18:00 +0900
 categories: japanese
 ---

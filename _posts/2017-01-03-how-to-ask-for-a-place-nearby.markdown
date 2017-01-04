@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how to ask for a place nearby | kono hen ni, ATM arimasu ka."
+title:  "how to ask for a place nearby"
 date:   2017-01-03 10:18:00 +0900
 categories: japanese
 ---

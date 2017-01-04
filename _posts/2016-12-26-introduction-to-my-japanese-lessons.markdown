@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Introduction to my japanese lessons notes!"
+title:  "introduction to my japanese lessons notes!"
 date:   2016-12-26 22:25:46 +0900
 categories: japanese intro
+excerpt_separator: <!--more-->
 ---
+
+> Nihongo o manabu.
+<!--more-->
 
 For some reasons, I started studying japanese about a month ago.
 And in order to keep working on it, and re-read the notes I'm taking in class,
