@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how to talk about what you like | ramen ga suki desu."
+title:  "how to talk about what you like"
 date:   2016-12-29 23:40:00 +0900
 categories: japanese intro
 ---

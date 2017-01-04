@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "how to talk about your family | watashi no tsuma wa enjinia desu."
+title:  "how to talk about your family"
 date:   2016-12-30 00:08:00 +0900
 categories: japanese intro
+excerpt_separator: <!--more-->
 ---
+
+> Watashi no haha wa enjinia desu.
+<!--more-->
 
 ### Talking about family
 
